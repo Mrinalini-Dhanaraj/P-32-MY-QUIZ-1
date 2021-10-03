@@ -1,1 +1,1 @@
-# P-32-MY-QUIZ-1
+# project-template-myquiz
